@@ -1,6 +1,6 @@
-# Apunts AOF
+# Apunts Aplicaciones Ofimáticas
 
-Aquesta web publica només els continguts **que el professor ha autoritzat**.
+A aquesta web publicaré els continguts del mòdul **0223 - Aplicacions Ofimátiques**.
 
-- Els originals (.docx/.ods/.pptx) viuen a la carpeta `source/` del repositori.
-- Només el que estigui al manifest `publish.yaml` es converteix/mostra aquí.
+<!-- CFPM-IC10 -->
+
