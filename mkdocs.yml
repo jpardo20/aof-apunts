@@ -5,6 +5,11 @@ site_url: https://github.com/jpardo20/aof-apunts
 nav:
   - Inici: index.md
   - Continguts: continguts.md
+  - UD01:
+      - Introducció: unitats-didactiques/ud01-iao/aof-ud01-introduccio-a-aplicacions-ofimatiques.md
+  - UD02:
+      - Organització: unitats-didactiques/ud02-oiicap/aof-ud02-organizacio-individual-i-collectiva-amb-projectes.md
+
 
 theme:
   name: material
