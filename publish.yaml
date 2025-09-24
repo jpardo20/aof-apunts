@@ -1,0 +1,20 @@
+# Llista de continguts a publicar (afegiu entrades aquí).
+# Només els elements amb `publish: true` es construiran i apareixeran a la web.
+#
+# Camps:
+# - title: Títol visible a la web
+# - section: Grup/Unitat (opcional, per agrupar al sumari)
+# - source: Ruta al fitxer original dins `source/` (DOCX recomanat)
+# - output: Ruta (relativa dins `docs/`) on generar el .md (sense 'docs/' al davant)
+# - downloads: [llista de rutes a fitxers originals que vols oferir com a descàrrega]
+# - publish: true/false
+#
+# Exemple:
+items:
+  - title: "UD01 — Activitats avaluables 01"
+    section: "UD01"
+    source: "source/unidades-didacticas/ud01/aof-ud01-actividades-evaluables-01.docx"
+    output: "unidades-didacticas/ud01/aof-ud01-actividades-evaluables-01.md"
+    downloads:
+      - "source/unidades-didacticas/ud01/aof-ud01-actividades-evaluables-01.pdf"
+    publish: false  # posa-ho a true quan vulguis que aparegui

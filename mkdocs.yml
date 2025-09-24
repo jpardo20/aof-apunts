@@ -1,0 +1,23 @@
+site_name: Apunts AOF
+site_description: Publicació progressiva des d'un sol repositori
+site_url: https://github.com/jpardo20/aof-apunts
+
+nav:
+  - Inici: index.md
+  - Continguts: continguts.md
+
+theme:
+  name: material
+  language: ca
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - def_list
