@@ -2,7 +2,7 @@
 title: Continguts publicats
 ---
 
-> ⚠️ Aquesta pàgina es **(re)genera automàticament** a partir de `publish.yaml`.
+# Continguts publicats
 
 ## UD01
 - [UD01 — Introducció aplicacions ofimatiques](unitats-didactiques/ud01-iao/aof-ud01-introduccion-a-aplicaciones-ofimaticas.md)

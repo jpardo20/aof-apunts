@@ -87,7 +87,7 @@ def main():
         "title: Continguts publicats",
         "---",
         "",
-        "> ⚠️ Aquesta pàgina es **(re)genera automàticament** a partir de `publish.yaml`.",
+        # "> ⚠️ Aquesta pàgina es **(re)genera automàticament** a partir de `publish.yaml`.",
         "",
     ]
     for sec in sorted(sections.keys()):

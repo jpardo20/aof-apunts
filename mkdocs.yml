@@ -1,4 +1,4 @@
-site_name: Apunts AOF
+site_name: Apunts 0223 - Aplicacions Ofimàtiques
 site_description: Publicació progressiva des d'un sol repositori
 site_url: https://github.com/jpardo20/aof-apunts
 
@@ -7,6 +7,7 @@ site_url: https://github.com/jpardo20/aof-apunts
 nav:
   - Inici: index.md
   - Continguts: continguts.md
+  - UD01: unitats-didactiques/ud01-iao/aof-ud01-introduccion-a-aplicaciones-ofimaticas.md
 
 
 # nav:
