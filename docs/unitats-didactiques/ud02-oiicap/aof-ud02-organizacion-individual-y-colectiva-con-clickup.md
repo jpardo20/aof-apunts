@@ -1,12 +1,12 @@
-![](media/image1.png)![short line](media/image8.png)
+![](./media/image1.png)![short line](./media/image8.png)
 
-Autores: Carmen Hompanera, Sergi García![](media/image2.png)
+Autores: Carmen Hompanera, Sergi García![](./media/image2.png)
 
 Actualizado Septiembre 2022
 
 Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](media/image2.png)
+> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](./media/image2.png)
 
 Nomenclatura
 
@@ -58,7 +58,7 @@ Previamente a empezar, definiremos estos tres conceptos:
 
   - > **Project manager:** en español, “Jefe de proyectos”, es una persona que tiene la responsabilidad general del inicio, la planificación, el diseño, la ejecución, el seguimiento, el control y el cierre exitosos de un proyecto.
 
-![](media/image7.png)
+![](./media/image7.png)
 
 ## ¿Cómo desarrollamos un proyecto?
 
@@ -100,11 +100,11 @@ Tenemos diferentes modelos que se adaptan a nuestras necesidades, así tenemos e
 
 **Tablero Genérico**
 
-![](media/image6.png)
+![](./media/image6.png)
 
 **Específico para un proyecto**
 
-![](media/image5.png)
+![](./media/image5.png)
 
 📖 **Importante:** los tableros Kanban son útiles para la gestión de proyectos, pero también pueden ser útiles para la organización individual y colectiva.
 
