@@ -14,14 +14,14 @@ items:
   - title: "UD01 — Introducció aplicacions ofimatiques"
     section: "UD01"
     source: "source/unitats-didactiques/ud01-introduccio-aplicacions-ofimatiques/aof-ud01-introduccion-a-aplicaciones-ofimaticas.docx"
-    output: "unitats-didactiques/ud01-iao/aof-ud01-introduccion-a-aplicaciones-ofimaticas.md"
+    output: "unitats-didactiques/ud01-iao/index.md"
     # downloads:
       # - "source/unidades-didacticas/ud01/aof-ud01-actividades-evaluables-01.pdf"
     publish: true  # posa-ho a true quan vulguis que aparegui
   - title: "UD02 - Organizació individual i col·lectiva amb projectes"
     section: "UD02"
     source: "source/unitats-didactiques/ud02-organizacio-individual-i-collectiva-amb-projectes/aof-ud02-organizacion-individual-y-colectiva-con-clickup.docx"
-    output: "unitats-didactiques/ud02-oiicap/aof-ud02-organizacion-individual-y-colectiva-con-clickup.md"
+    output: "unitats-didactiques/ud02-oiicap/index.md"
     # downloads:
       # - "source/unidades-didacticas/ud01/aof-ud01-actividades-evaluables-01.pdf"
     publish: true  # posa-ho a true quan vulguis que aparegui

@@ -85,8 +85,9 @@ def main():
         })
 
     # Índex automàtic
-    lines = ["---","title: Continguts publicats","---","",
-             "> ⚠️ Aquesta pàgina es (re)genera automàticament a partir de `publish.yaml`.",""]
+    lines = ["---","title: Continguts publicats","---",""]
+            #  "> ⚠️ Aquesta pàgina es (re)genera automàticament a partir de `publish.yaml`.",""]
+            
     for sec in sorted(sections.keys()):
         lines.append(f"## {sec}")
         for el in sections[sec]:
