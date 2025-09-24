@@ -1,26 +1,40 @@
-![](./media/image3.png)![short line](./media/image5.png)
+### Aplicaciones Ofimáticas
 
-Autores: Sergi García Barea, Gloria Muñoz González![](./media/image1.png)
+# UD 01. Introducción a aplicaciones ofimáticas
+
+![banner](./media/banner.png)
+
+![short-line](./media/short-line.png)
+
+### Autores: <u>Sergi García Barea</u>, <u>Gloria Muñoz González</u>
+### ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 Actualizado Septiembre 2022
 
-Licencia
+### Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](./media/image1.png)
+> [!CAUTION]**Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
+> ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
-Nomenclatura
+### Nomenclatura
 
 A lo largo de este tema se utilizarán diferentes símbolos para distinguir elementos importantes dentro del contenido. Estos símbolos son:
 
-📖 **Importante**
+> [!TIP]
+> 📖 **Importante**
 
-❕ **Atención**
+> [!TIP]
+>❕ **Atención**
 
-💬 **Interesante**
+> [!TIP]
+> 💬 **Interesante**
 
-📕 **A entregar**
+> [!TIP]
+> 📕 **A entregar**
 
-**<span class="smallcaps">Índice de contenido</span>**
+----
+
+<details><summary><b>Índice de contenido</b></summary>
 
 **[Introducción](#introducción) 2**
 
@@ -36,25 +50,31 @@ A lo largo de este tema se utilizarán diferentes símbolos para distinguir elem
 
 **[¿Qué entra para examen?](#qué-entra-para-examen) 4**
 
-<span class="smallcaps">UD01. Introducción a aplicaciones ofimáticas</span>
+</details>
 
-# Introducción
+----
+
+# UD 01. Introducción a aplicaciones ofimáticas
+
+## Introducción
 
 Este documento es una simple guía resumen de los contenidos que se deben tratar en esta unidad, así como indicaciones de que esperamos que aprendas.
 
-❕ **Atención:** esta información es una guía/resumen y **<span class="underline">es tu deber trabajar los conocimientos</span>** durante la clase y complementarlos con tus anotaciones.
+> [!TIP]
+>❕ **Atención** esta información es una guía/resumen y **<span class="underline">es tu deber trabajar los conocimientos</span>** durante la clase y complementarlos con tus anotaciones.
 
-# ¿Qué es una suite ofimática?
+## ¿Qué es una suite ofimática?
 
 Una suite ofimática, o también llamado paquete de oficina, es un paquete de programas informáticos que suele incluir distintos programas relacionados con la oficina. Una suite ofimática suele incluir un procesador de textos, una hoja de cálculo y un programa de presentación.
 
 Podéis encontrar más información aquí [<span class="underline">https://es.wikipedia.org/wiki/Paquete\_de\_oficina</span>](https://es.wikipedia.org/wiki/Paquete_de_oficina)
 
-# Suites ofimáticas locales vs suites ofimáticas en la nube
+## Suites ofimáticas locales vs suites ofimáticas en la nube
 
 Actualmente, existen gran cantidad de suites ofimáticas locales (es decir, se ejecutan y tratan los datos en nuestro ordenador) y suites ofimáticas en la nube (se ejecutan en la nube, que básicamente es el ordenador de otra persona).
 
-❕ **Atención:** la nube es realmente “el ordenador de otra persona”. Hay que tener cuidado con lo que se usa en la nube, ya que incluso aunque una aplicación en la nube prometa que no almacenará nada, no tenemos garantía de que así sea y lo usen para algún fin malicioso.
+> [!TIP]
+>❕ **Atención** la nube es realmente “el ordenador de otra persona”. Hay que tener cuidado con lo que se usa en la nube, ya que incluso aunque una aplicación en la nube prometa que no almacenará nada, no tenemos garantía de que así sea y lo usen para algún fin malicioso.
 
 Hay que tener muy claro que todo lo que se trabaja en la nube tiene una serie de peligros, además de los mencionados anteriormente. Aquí un enlace con más información al respecto.
 
@@ -66,9 +86,10 @@ En principio, salvo para programas que sean de total confianza (**<span class="u
 
 Por ejemplo, la legislación española prohíbe almacenar datos personales de terceros en servidores que estén fuera de la unión europea, por lo cual almacenarlos en algo como Google Drive, salvo que estés pagando para que Google use un servidor Europeo, podría ser delito.
 
-❕ **Atención:** evitad la nube cuando tratéis con datos personales. Recordad, además de problemas de robo de datos, puede haber problemas legales.
+> [!TIP]
+>❕ **Atención** evitad la nube cuando tratéis con datos personales. Recordad, además de problemas de robo de datos, puede haber problemas legales.
 
-# Ergonomía, posturas, fatiga visual y descansos
+## Ergonomía, posturas, fatiga visual y descansos
 
 En este apartado queremos recordar que trabajar con pantallas de diferentes tipos (ordenador de sobremesa, portátil, tablet, móvil, etc.) no está exento de riesgos a corto y largo plazo.
 
@@ -84,13 +105,13 @@ Algunos sitios (que no los únicos) donde podéis ampliar información y encontr
 
   - > [<span class="underline">https://riesgoslaborales.saludlaboral.org/portal-preventivo/riesgos-laborales/riesgos-relacionados-con-la-hergonomia/pantallas-visualizacion-de-datos-pvd/</span>](https://riesgoslaborales.saludlaboral.org/portal-preventivo/riesgos-laborales/riesgos-relacionados-con-la-hergonomia/pantallas-visualizacion-de-datos-pvd/)
 
-# Cheat sheets
+## Cheat sheets
 
 “Cheat sheet” o “hoja de trucos” (traducción al castellano) es un término utilizado en la informática para almacenar información (que habitualmente cabe en una 1 o 2 caras de un folio) sobre el uso de alguna aplicación, herramienta, lenguaje de programación, etc.
 
 Es muy interesante tener “Cheat sheets” de elementos que usemos a diario, ya que nos harán la faena más fácil y nos permiten ahorrar tiempo.
 
-# Búsqueda en Google
+## Búsqueda en Google
 
 Google tiene un poderoso motor de búsqueda, que permite afinar tus búsquedas para ayudarte a encontrar lo que necesites (buscar frases literales entre comillas “”, acotar por tipo de archivo, por fecha, buscar solo en un sitio web, excluir un sitio web de la búsqueda, etc.).
 
@@ -102,7 +123,7 @@ Aquí enlazamos a algunas “Cheat sheets” que contienen los principales coman
 
   - > [<span class="underline">http://static.googleusercontent.com/media/www.google.com/en//educators/downloads/Tips\_Tricks\_85x11.pdf</span>](http://static.googleusercontent.com/media/www.google.com/en//educators/downloads/Tips_Tricks_85x11.pdf)
 
-# ¿Qué entra para examen?
+## ¿Qué entra para examen?
 
 Le llamamos así a este apartado porque para el alumnado siempre es más atractivo que “¿Qué debo aprender en este tema?” :D. A continuación, indicamos de este tema que deberíais preparar para el examen:
 
