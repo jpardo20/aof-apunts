@@ -2,5 +2,10 @@
 title: Continguts publicats
 ---
 
-> ⚠️ Aquesta pàgina es **(re)genera automàticament** pel workflow a partir del fitxer `publish.yaml`.
-> No l'edites a mà: els canvis es perdran al proper deploy.
+> ⚠️ Aquesta pàgina es **(re)genera automàticament** a partir de `publish.yaml`.
+
+## UD01
+- [UD01 — Introducció aplicacions ofimatiques](unitats-didactiques/ud01-iao/aof-ud01-introduccion-a-aplicaciones-ofimaticas.md)
+
+## UD02
+- [UD02 - Organizació individual i col·lectiva amb projectes](unitats-didactiques/ud02-oiicap/aof-ud02-organizacion-individual-y-colectiva-con-clickup.md)
