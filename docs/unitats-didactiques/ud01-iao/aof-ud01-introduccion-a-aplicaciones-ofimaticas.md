@@ -1,12 +1,12 @@
-![](media/media/image3.png)![short line](media/media/image5.png)
+![](media/image3.png)![short line](media/image5.png)
 
-Autores: Sergi García Barea, Gloria Muñoz González![](media/media/image1.png)
+Autores: Sergi García Barea, Gloria Muñoz González![](media/image1.png)
 
 Actualizado Septiembre 2022
 
 Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](media/media/image1.png)
+> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](media/image1.png)
 
 Nomenclatura
 
