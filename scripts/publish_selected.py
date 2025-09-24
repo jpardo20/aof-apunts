@@ -10,15 +10,56 @@ SRC = ROOT / "source"
 MANIFEST = ROOT / "publish.yaml"
 CONTINGUTS = DOCS / "continguts.md"
 
-def run(cmd):
+def run(cmd, cwd=None):
     print("+", " ".join(cmd))
-    subprocess.run(cmd, check=True)
+    subprocess.run(cmd, check=True, cwd=cwd)
+
+
+# def run(cmd):
+#     print("+", " ".join(cmd))
+#     subprocess.run(cmd, check=True)
+
 
 def pandoc_convert(src, out_md, media_dir):
     out_md.parent.mkdir(parents=True, exist_ok=True)
-    media_dir.mkdir(parents=True, exist_ok=True)
-    run(["pandoc", str(src), "--to", "gfm", "--extract-media", str(media_dir),
-         "--wrap", "none", "--atx-headers", "-o", str(out_md)])
+
+    # Treballem dins la carpeta del .md perquè els enllaços a imatges quedin RELATIUS (media/...)
+    cwd = out_md.parent
+    rel_media = "media"
+    (cwd / rel_media).mkdir(parents=True, exist_ok=True)
+
+    base = ["pandoc", str(src), "--to=gfm", "--wrap=none", f"-o={out_md.name}"]
+
+    # 1r intent (Pandoc nou): --markdown-headings=atx
+    try:
+        run(base + [f"--extract-media={rel_media}", "--markdown-headings=atx"], cwd=cwd)
+        return
+    except subprocess.CalledProcessError:
+        print("… Pandoc sense --markdown-headings=atx; provem amb --atx-headers")
+
+    # 2n intent (Pandoc antic): --atx-headers
+    run(base + [f"--extract-media={rel_media}", "--atx-headers"], cwd=cwd)
+
+
+# def pandoc_convert(src, out_md, media_dir):
+#     out_md.parent.mkdir(parents=True, exist_ok=True)
+#     media_dir.mkdir(parents=True, exist_ok=True)
+#     run([
+#         "pandoc",
+#         str(src),
+#         "--to=gfm",
+#         f"--extract-media={media_dir}",
+#         "--wrap=none",
+#         "--markdown-headings=atx",
+#         f"-o={out_md}",
+#     ])
+
+
+# def pandoc_convert(src, out_md, media_dir):
+#     out_md.parent.mkdir(parents=True, exist_ok=True)
+#     media_dir.mkdir(parents=True, exist_ok=True)
+#     run(["pandoc", str(src), "--to", "gfm", "--extract-media", str(media_dir),
+#          "--wrap", "none", "--atx-headers", "-o", str(out_md)])
 
 def copy_asset(src, dest):
     dest.parent.mkdir(parents=True, exist_ok=True)
