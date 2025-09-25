@@ -1,1 +1,7 @@
 site/
+
+# Office/LibreOffice locks
+**/.~lock.*#
+~.docx
+~.pptx
+~.xlsx
