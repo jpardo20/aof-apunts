@@ -7,10 +7,10 @@ site_url: https://github.com/jpardo20/aof-apunts
 nav:
   - Inici: index.md
   - Continguts: continguts.md
-  - UD01: unitats-didactiques/ud01-iao/index.md
-  - UD01: unitats-didactiques/ud01-iao/aof-ud01-actividades-evaluables-01.md
-  - UD01: unitats-didactiques/ud01-iao/aof-ud01-glosario.md
-
+  - UD01:
+      - Introducció: unitats-didactiques/ud01-iao/index.md
+      - Activitats avaluables 01: unitats-didactiques/ud01-iao/aof-ud01-actividades-evaluables-01.md
+      - Glossari: unitats-didactiques/ud01-iao/aof-ud01-glosario.md
 
 # nav:
 #   - Inici: index.md
@@ -25,6 +25,8 @@ theme:
   name: material
   language: ca
   features:
+    - navigation.indexes     # el títol de secció obre l'index.md
+    - navigation.sections
     - navigation.instant
     - navigation.tracking
     - content.code.copy
@@ -36,3 +38,6 @@ markdown_extensions:
   - tables
   - attr_list
   - def_list
+
+extra_css:
+  - assets/styles.css
