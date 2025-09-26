@@ -1,10 +1,22 @@
-![](./media/image1.png)
+### Aplicaciones Ofimáticas
 
-![](./media/image3.png)Autores: Sergi García Barea, Gloria Muñoz González
+# UD 01. Introducción a aplicaciones ofimáticas
+
+![banner](./media/banner.png)
+
+![short-line](./media/short-line.png)
+
+### Autores: <u>Sergi García Barea</u>, <u>Gloria Muñoz González</u>
+### ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 Actualizado Septiembre 2022
 
-<span class="smallcaps">UD 1. Glosario</span>
+### Licencia
+
+> [!CAUTION]**Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
+> ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
+
+----
 
 # Glossary
 

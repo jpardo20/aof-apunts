@@ -1,26 +1,40 @@
-![](./media/image1.png)
+### Aplicaciones Ofimáticas
 
-![](./media/image3.png)Autores: Sergi García Barea, Gloria Muñoz González
+# UD 01. Introducción a aplicaciones ofimáticas
+
+![banner](./media/banner.png)
+
+![short-line](./media/short-line.png)
+
+### Autores: <u>Sergi García Barea</u>, <u>Gloria Muñoz González</u>
+### ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 Actualizado Septiembre 2022
 
-Licencia
+### Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** ![](./media/image3.png)(BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
+> [!CAUTION]**Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
+> ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
-Nomenclatura
+### Nomenclatura
 
 A lo largo de este tema se utilizarán diferentes símbolos para distinguir elementos importantes dentro del contenido. Estos símbolos son:
 
-📖 **Importante**
+> [!TIP]
+> 📖 **Importante**
 
-❕ **Atención**
+> [!TIP]
+>❕ **Atención**
 
-💬 **Interesante**
+> [!TIP]
+> 💬 **Interesante**
 
-📕 **A entregar**
+> [!TIP]
+> 📕 **A entregar**
 
-**<span class="smallcaps">Índice de contenido</span>**
+----
+
+<details><summary><b>Índice de contenido</b></summary>
 
 [**Fecha de entrega**](#fecha-de-entrega)
 
@@ -44,9 +58,13 @@ A lo largo de este tema se utilizarán diferentes símbolos para distinguir elem
 
 [**Actividad 09**](#actividad-09) **3 3 3 3 3 4 4 4 4 4 4**
 
-<span class="smallcaps">UD01. Actividades evaluables 01</span>
+</details>
 
-# Fecha de entrega
+----
+
+# UD 01. Actividades evaluables 01
+
+## Fecha de entrega
 
 **Fecha límite de entrega: <span class="underline">Lunes 29 de septiembre a las 23:55.</span>**
 
@@ -54,7 +72,7 @@ La actividad será evaluada cuando haya pasado la fecha límite de la entrega.
 
 ❕ **Atención:** la fecha de entrega no es prorrogable. Si no la entregas en tiempo y forma, la calificación de la actividad será 0.
 
-# Observaciones previas a la realización de tareas evaluables
+## Observaciones previas a la realización de tareas evaluables
 
   - > Salvo excepciones que lo indique en cada actividad, deberás generar un único documento para todo el boletín y en ese documento incluir la respuesta a cada actividad.
     
@@ -68,31 +86,31 @@ La actividad será evaluada cuando haya pasado la fecha límite de la entrega.
 
 ❕ **Atención:** no cumplir estas consideraciones puede reducir la nota hasta 3 puntos.
 
-# Actividad 01
+## Actividad 01
 
 Explica en un documento que es una suite ofimática. Al realizar la explicación explica las diferencias entre una suite ofimática local (instalada en tu ordenador) y una suite ofimática en la nube utilizada a través de un navegador.
 
 📕 **A entregar:** texto con la explicación solicitada. Enséñalo a tu profesor antes de entregarlo.
 
-# Actividad 02
+## Actividad 02
 
 Nombra los tipos de aplicaciones ofimáticas que conozcas (esperamos entre 5 y 10). Para cada tipo, indica un ejemplo de aplicación ofimática local y un ejemplo de aplicación en la nube.
 
 📕 **A entregar:** texto con tipos y ejemplos solicitados.
 
-# Actividad 03
+## Actividad 03
 
 Nombra al menos 3 suites ofimáticas que conozcas (al menos 1 en la nube y al menos 1 local). De cada una, indica qué tipos de aplicaciones ofimáticas posee.
 
 📕 **A entregar:** texto con nombre de suites y tipos de aplicaciones que poseen.
 
-# Actividad 04
+## Actividad 04
 
 ¿Qué peligros tiene el utilizar aplicaciones ofimáticas en la nube? ¿Son seguras? ¿Con qué tipo de documentos ***<span class="underline">NUNCA</span>*** deberíamos utilizarlas?
 
 📕 **A entregar:** texto respondiendo a las preguntas solicitadas. Enséñalo a tu profesor antes de entregarlo.
 
-# Actividad 05
+## Actividad 05
 
 Visualiza el siguiente video sobre ergonomía aplicada a ordenadores de sobremesa y ordenadores portátiles. [<span class="underline">https://www.youtube.com/watch?v=e-3\_rKmsjmQ</span>](https://www.youtube.com/watch?v=e-3_rKmsjmQ)
 
@@ -100,25 +118,25 @@ Resume los consejos de ergonomía que nos da este video.
 
 📕 **A entregar:** texto resumiendo los consejos del video.
 
-# Actividad 06
+## Actividad 06
 
 Investiga en Internet consejos de ergonomía aplicados en concreto al uso de smartphones/tablets. Resume los consejos que encuentres.
 
 📕 **A entregar:** texto resumiendo los consejos encontrados. Enséñalo a tu profesor antes de entregarlo.
 
-# Actividad 07
+## Actividad 07
 
 Investiga en Internet consejos para evitar tanto fatiga visual como mental en el uso de pantallas de visualización de datos (sobremesa, portátil y smartphone/tablet”). Resume lo encontrado.
 
 📕 **A entregar:** texto resumiendo los consejos encontrados. Enséñalo a tu profesor antes de entregarlo.
 
-# Actividad 08
+## Actividad 08
 
 ¿Qué es una "Cheat sheet?” ¿Cuál sería la traducción al castellano de este término? Explica el sentido de la traducción. Proporciónanos el enlace de “Cheat sheets” que encuentres relacionadas con ofimática, proporcionando al menos 2 en castellano y 2 en inglés.
 
 📕 **A entregar:** definición del término, traducción y enlaces solicitados.
 
-# Actividad 09
+## Actividad 09
 
 Vamos a utilizar la información depositada en estas 3 “Cheat Sheets” de búsqueda de contenidos en Google
 

@@ -1,26 +1,40 @@
-![](./media/image3.png)![short line](./media/image5.png)
+### Aplicaciones Ofimáticas
 
-Autores: Sergi García Barea, Gloria Muñoz González![](./media/image1.png)
+# UD 01. Introducción a aplicaciones ofimáticas
+
+![banner](./media/banner.png)
+
+![short-line](./media/short-line.png)
+
+### Autores: <u>Sergi García Barea</u>, <u>Gloria Muñoz González</u>
+### ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 Actualizado Septiembre 2022
 
-Licencia
+### Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](./media/image1.png)
+> [!CAUTION]**Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
+> ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
-Nomenclatura
+### Nomenclatura
 
 A lo largo de este tema se utilizarán diferentes símbolos para distinguir elementos importantes dentro del contenido. Estos símbolos son:
 
-📖 **Importante**
+> [!TIP]
+> 📖 **Importante**
 
-❕ **Atención**
+> [!TIP]
+>❕ **Atención**
 
-💬 **Interesante**
+> [!TIP]
+> 💬 **Interesante**
 
-📕 **A entregar**
+> [!TIP]
+> 📕 **A entregar**
 
-**<span class="smallcaps">Índice de contenido</span>**
+----
+
+<details><summary><b>Índice de contenido</b></summary>
 
 **[Introducción](#introducción) 2**
 
@@ -36,9 +50,13 @@ A lo largo de este tema se utilizarán diferentes símbolos para distinguir elem
 
 **[¿Qué entra para examen?](#qué-entra-para-examen) 4**
 
-<span class="smallcaps">UD01. Introducción a aplicaciones ofimáticas</span>
+</details>
 
-# Introducción
+----
+
+# UD 01. Introducción a aplicaciones ofimáticas
+
+## Introducción
 
 Este documento es una simple guía resumen de los contenidos que se deben tratar en esta unidad, así como indicaciones de que esperamos que aprendas.
 
