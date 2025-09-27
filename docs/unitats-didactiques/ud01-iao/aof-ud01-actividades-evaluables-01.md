@@ -2,12 +2,11 @@
 
 # UD 01. Introducción a aplicaciones ofimáticas
 
-![banner](./media/banner.png)
-
-![short-line](./media/short-line.png)
+![banner](./media/banner.png){ .center width="900" }
+![short-line](./media/short-line.png){ width="320" }
 
 ### Autores: <u>Sergi García Barea</u>, <u>Gloria Muñoz González</u>
-### ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
+![Licència CC BY-NC-SA](./media/image-BY-NC-SA.png){ width="180" }
 
 Actualizado Septiembre 2022
 
@@ -54,7 +53,7 @@ A lo largo de este tema se utilizarán diferentes símbolos para distinguir elem
 
 [**Actividad 07**](#actividad-07)
 
-[**Actividad 08 (English)**](#actividad-08)
+[**Actividad 08**](#actividad-08)
 
 [**Actividad 09**](#actividad-09) **3 3 3 3 3 4 4 4 4 4 4**
 
