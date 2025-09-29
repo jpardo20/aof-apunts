@@ -11,22 +11,22 @@
   #
   # Exemple:
   items:
-    - title: "UD01 — Introducció aplicacions ofimàtiques"
-      section: "UD01"
+    - title: "Tema 1 — Introducció aplicacions ofimàtiques"
+      section: "Tema 1"
       source: "source/unitats-didactiques/ud01-introduccio-aplicacions-ofimatiques/aof-ud01-introduccion-a-aplicaciones-ofimaticas.docx"
       output: "unitats-didactiques/ud01-iao/index.md"
       publish: true  # posa-ho a true quan vulguis que aparegui
       freeze: true   # ← protegeix l’index d’UD02 si el vols personalitzar
 
-    - title: "UD01 — Activitats avaluables 01"
-      section: "UD01"
+    - title: "Tema 1 — Activitats avaluables 01"
+      section: "Tema 1"
       source: "source/unitats-didactiques/ud01-introduccio-aplicacions-ofimatiques/aof-ud01-actividades-evaluables-01.docx"
       output: "unitats-didactiques/ud01-iao/aof-ud01-actividades-evaluables-01.md"
       publish: true  # posa-ho a true quan vulguis que aparegui
       freeze: true   # ← protegeix l’index d’UD02 si el vols personalitzar
 
-    - title: "UD01 — Glossari"
-      section: "UD01"
+    - title: "Tema 1 — Glossari"
+      section: "Tema 1"
       source: "source/unitats-didactiques/ud01-introduccio-aplicacions-ofimatiques/aof-ud01-glosario.docx"
       output: "unitats-didactiques/ud01-iao/aof-ud01-glosario.md"
       publish: true  # posa-ho a true quan vulguis que aparegui
