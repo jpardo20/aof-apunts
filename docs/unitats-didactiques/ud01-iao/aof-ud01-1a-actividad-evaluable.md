@@ -13,7 +13,6 @@ Actualizado Septiembre 2022
 ### Licencia
 
 > [!CAUTION]**Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
-> ![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 ### Nomenclatura
 
@@ -139,11 +138,11 @@ Investiga en Internet consejos para evitar tanto fatiga visual como mental en el
 
 Vamos a utilizar la información depositada en estas 3 “Cheat Sheets” de búsqueda de contenidos en Google
 
-  - > [<span class="underline">https://www.googleguide.com/print/adv\_op\_ref.pdf</span>](https://www.googleguide.com/print/adv_op_ref.pdf)
-
+  - > [<span class="underline">GoogleGuide making searching even easier</span>](https://www.googleguide.com/print/adv_op_ref.pdf)
   - > [<span class="underline">https://sites.google.com/site/gwebsearcheducation/goodies</span>](https://sites.google.com/site/gwebsearcheducation/goodies)
 
-  - > [<span class="underline">http://static.googleusercontent.com/media/www.google.com/en//educators/downloads/Tips\_Tricks\_85x11.pdf</span>](http://static.googleusercontent.com/media/www.google.com/en//educators/downloads/Tips_Tricks_85x11.pdf)
+          
+  - > [<span class="underline">Better searches. Better results.</span>](https://static.googleusercontent.com/media/www.google.com/en//educators/downloads/Tips_Tricks_85x11.pdf)
 
 Utilizando estas “Cheat sheets” responde a las siguientes preguntas:
 

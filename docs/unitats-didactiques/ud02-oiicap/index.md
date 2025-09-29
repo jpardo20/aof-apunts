@@ -1,12 +1,16 @@
-![](./media/image1.png)![short line](./media/image8.png)
+![banner.png](../ud02-oiicap/media/banner.png)
 
-Autores: Carmen Hompanera, Sergi García![](./media/image2.png)
+![short-line.png](./media/short-line.png)
+
+### Autores: Carmen Hompanera, Sergi García
+
+![image-BY-NC-SA.png](./media/image-BY-NC-SA.png)
 
 Actualizado Septiembre 2022
 
 Licencia
 
-> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.![](./media/image2.png)
+> **Reconocimiento - No comercial - CompartirIgual** (BY-NC-SA): No se permite un uso comercial de la obra original ni de las posibles obras derivadas, la distribución de las cuales se ha de hacer con una licencia igual a la que regula la obra original.
 
 Nomenclatura
 

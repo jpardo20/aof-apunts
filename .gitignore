@@ -5,3 +5,4 @@ site/
 ~.docx
 ~.pptx
 ~.xlsx
+*.docx
