@@ -34,6 +34,14 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      - name: Copy 'presentacions' into built site
+        run: |
+          mkdir -p site/presentacions
+          if [ -d "presentacions" ]; then
+            # Copy the entire folder (including hidden files) without failing if it's empty
+            cp -a presentacions/. site/presentacions/
+          fi
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
