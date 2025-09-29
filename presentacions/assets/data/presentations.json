@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "introduccio",
+    "title": "Introducció",
+    "description": "Primers conceptes del mòdul 0223 - Aplicacions ofimàtiques i logística del curs.",
+    "tags": ["general", "inici", "mòdul"]
+  },
+  {
+    "slug": "organizacio",
+    "title": "Organización individual y Colectiva con Proyectos",
+    "description": "Organización tanto individual y colectivamente con proyectos",
+    "tags": ["organizacio", "proyectos"]
+  }
+]

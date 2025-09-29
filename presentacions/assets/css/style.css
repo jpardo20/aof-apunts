@@ -1,0 +1,90 @@
+/* ==== Reset i base ==== */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; line-height: 1.5; color: #1f2937; background: #f7f9fc; }
+
+/* ==== Layout ==== */
+.site-header {
+  background: linear-gradient(180deg, #0f3d77 0%, #115eaf 100%);
+  color: #fff;
+  padding: 2rem 1.25rem 1.5rem;
+  text-align: center;
+}
+.site-header h1 { margin: 0 0 .25rem; font-size: clamp(1.4rem, 2.8vw, 2rem); font-weight: 700; }
+.subtitle { margin: 0 auto 1rem; opacity: .95; max-width: 62ch; }
+
+.toolbar { display: flex; justify-content: center; }
+.toolbar input[type="search"] {
+  width: min(680px, 92vw);
+  padding: .75rem 1rem;
+  border-radius: .75rem;
+  border: none;
+  outline: none;
+  box-shadow: 0 6px 24px rgba(0,0,0,.15);
+}
+
+/* ==== Grid de targetes ==== */
+main { padding: 2rem 1.25rem 3rem; }
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 1.25rem 1.25rem 1.15rem;
+  box-shadow: 0 6px 24px rgba(17, 59, 119, .08);
+  transition: transform .18s ease, box-shadow .18s ease;
+  display: flex;
+  flex-direction: column;
+  min-height: 200px;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(17, 59, 119, .12);
+}
+.card h2 {
+  margin: 0 0 .35rem;
+  font-size: 1.12rem;
+  color: #0f3d77;
+}
+.card p {
+  margin: 0 0 .85rem;
+  color: #374151;
+  flex: 1;
+}
+.card .meta {
+  font-size: .85rem;
+  color: #6b7280;
+  margin-bottom: .75rem;
+}
+
+.card .actions {
+  display: flex;
+  gap: .5rem;
+}
+.button {
+  display: inline-block;
+  text-decoration: none;
+  padding: .6rem .9rem;
+  border-radius: .6rem;
+  font-weight: 600;
+  font-size: .95rem;
+}
+.button.primary { background: #115eaf; color: #fff; }
+.button.primary:hover { background: #0f4f93; }
+.button.ghost { background: #eef4ff; color: #0f3d77; }
+.button.ghost:hover { background: #e0eaff; }
+
+/* ==== Peu ==== */
+.site-footer {
+  border-top: 1px solid #e5e7eb;
+  background: #fff;
+  text-align: center;
+  padding: 1rem;
+  color: #6b7280;
+  font-size: .9rem;
+}
