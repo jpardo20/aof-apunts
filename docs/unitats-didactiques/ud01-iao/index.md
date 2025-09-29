@@ -1,6 +1,6 @@
 ### Aplicaciones Ofimáticas
 
-# UD 01. Introducción a aplicaciones ofimáticas
+# Mòdul 0223 - Aplicacions Ofimàtiques
 
 ![banner](./media/banner.png){ .center width="900" }
 ![short-line](./media/short-line.png){ width="320" }
