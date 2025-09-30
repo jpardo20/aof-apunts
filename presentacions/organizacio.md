@@ -166,3 +166,24 @@ A continuación, indicamos de este tema que deberíais preparar para el examen:
      - Puede ser tanto un tablero Kanban “en papel” como uno con ClickUp.
  * Ser capaz de organizarse individual y colectivamente con ClickUp (se aprende durante las prácticas).
  * Ser capaz de gestionar proyectos con ClickUp (se aprende durante las prácticas).
+
+---
+
+## Glossari 
+
+|||
+|---|---|
+|Individudal/collective organization|organización individual/colectiva.|
+|To manage|gestionar.|
+|Project management|gestión de proyectos.|
+|Project manager|persona que gestiona un proyecto.|
+|Board|tablero.|
+|Task|tarea a realizar.|
+|Schedule|horario planificado o calendario planificado.|
+|Issues|generalmente traducido como asuntos o a veces como problemas.|
+|Label|etiqueta.|
+|Allow|permitir.|
+|Workflow|flujo de trabajo.|
+|Workload|carga de trabajo.|
+
+---
