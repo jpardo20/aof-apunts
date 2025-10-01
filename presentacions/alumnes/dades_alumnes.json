@@ -1,0 +1,51 @@
+{
+    "meta": {
+        "curs": "2025-2026",
+        "promocio": "SMX-2025-2027",
+        "centre": "Digitechfp"
+    },
+    "alumnes": [
+        [
+            {
+                "firstname": "Marc",
+                "lastname": "López Vivies",
+                "email": "marclopezvives6@digitechfp.com"
+            },
+            {
+                "firstname": "Joan",
+                "lastname": "Pardo",
+                "email": "jpardo20@digitechfp.com"
+            },
+            {
+                "firstname": "Pau",
+                "lastname": "Díaz López",
+                "email": "paudiazlopez09@digitechfp.com"
+            },
+            {
+                "firstname": "Merouan",
+                "lastname": "Kiass",
+                "email": "kiassmerouan@digitechfp.com"
+            },
+            {
+                "firstname": "Antonia Lorena",
+                "lastname": "Cracana Cracana",
+                "email": "lorenacracana14@digitechfp.com"
+            },
+            {
+                "firstname": "Clemente",
+                "lastname": "Ramos Guiterrez",
+                "email": "clementeramosgutierrez@digitechfp.com"
+            },
+            {
+                "firstname": "Kristina",
+                "lastname": "Velkovska Kucinic",
+                "email": "kristina.velkovska.kucinic@digitechfp.com"
+            },
+            {
+                "firstname": "Joao Daniel",
+                "lastname": "De Paiva Oliveira",
+                "email": "joaodaniel.jd@digitechfp.com"
+            }
+        ]
+    ]
+}

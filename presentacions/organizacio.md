@@ -1,13 +1,12 @@
-# Organización individual y Colectiva con ClickUp
+# 2. Organización individual y Colectiva con ClickUp
 
+----
 
-## Introducción
-
-En esta unidad, trataremos como organizarnos tanto individual y colectivamente con ClickUp. Para ello, veremos algo de teoría sobre gestión de proyectos (Project management), desde el punto de vista de que organizarnos, tanto individualmente como colectivamente, es como trabajar en un proyecto. Tras ello, veremos el concepto de tablero Kanban y como aplicar los temas de organización mediante la herramienta ClickUp.
+* Trataremos como organizarnos tanto individual y colectivamente.
+* Veremos algo de teoría sobre gestión de proyectos (Project management),y como es trabajar en un proyecto.
+* También, veremos el concepto de tablero Kanban.
 
 ---
-
-## Gestión de proyectos (Project management)
 
 ### 2.1 Conceptos previos
 

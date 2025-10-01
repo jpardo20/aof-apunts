@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ca">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Introducció Aplicacions ofimàtiques</title>
+    <!-- Reveal.js core CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css" />
+    <!-- Theme: white, black, league, beige, sky, night, serif, simple, solarized -->
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/theme/white.css" id="theme" />
+    <!-- Optional: code highlight styles -->
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/plugin/highlight/monokai.css" />
+    <style>
+      /* Ajustos opcionals de disseny */
+      .reveal h1, .reveal h2, .reveal h3 { font-weight: 700; }
+      .reveal section img { border-radius: 16px; }
+      footer.footnote { position: absolute; left: 0; right: 0; bottom: 10px; text-align: center; font-size: 16px; opacity: .6; }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown="aof-03-utilidades-pdf.md"
+                data-separator="^---$"
+                data-separator-vertical="^----$"
+                data-separator-notes="^Note:">
+        </section>
+    </div>
+    </div>
+
+    <!-- Reveal.js core JS -->
+    <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+    <!-- Plugins que acostumen a ser útils -->
+    <script src="https://unpkg.com/reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="https://unpkg.com/reveal.js/plugin/highlight/highlight.js"></script>
+    <script src="https://unpkg.com/reveal.js/plugin/notes/notes.js"></script>
+    
+    <script>
+      // Inicialització bàsica
+      const deck = new Reveal({
+        hash: true,              // Permet enllaçar a una diapositiva concreta (#/2/1)
+        slideNumber: true,       // Mostra número de diapositiva
+        transition: 'slide',     // 'none' | 'fade' | 'slide' | 'convex' | 'concave' | 'zoom'
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+      });
+      deck.initialize();
+
+      // Canvi ràpid de tema (ex.: 'black', 'league', 'beige', 'night', 'serif', 'simple', 'solarized')
+      function setTheme(name) {
+        document.getElementById('theme').setAttribute('href', `https://unpkg.com/reveal.js/dist/theme/${name}.css`);
+      }
+      // Exemple: setTheme('black');
+    </script>
+  </body>
+</html>
