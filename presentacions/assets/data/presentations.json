@@ -10,5 +10,11 @@
     "title": "Organización individual y Colectiva con Proyectos",
     "description": "Organización tanto individual y colectivamente con proyectos",
     "tags": ["organizacio", "proyectos"]
+  },
+  {
+    "slug": "utilidades-pdf",
+    "title": "Utilidades PDF",
+    "description": "Formato de almacenamiento PDF para documentos digitales",
+    "tags": ["emmagatzament", "pdf"]
   }
 ]
